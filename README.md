@@ -1,4 +1,5 @@
-# BRI-Trade-Visualization 一带一路经济走廊贸易演变可视化分析系统
+# 一带一路经济走廊贸易演变可视化分析系统
+BRI-Trade-Visualization 
 
 ## 项目简介
 
