@@ -22,7 +22,7 @@ BRI-Trade-Visualization
 
 ## 技术栈
 
-* **前端框架**：HTML5, CSS3 (采用柔和的“新中式”配色方案)
+* **前端框架**：HTML5, CSS3 (采用柔和的冷色调配色方案)
 * **可视化库**：D3.js (v7), Leaflet.js (v1.9)
 * **数据格式**：JSON, CSV
 * **部署平台**：GitHub Pages
