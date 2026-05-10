@@ -51,6 +51,8 @@ python -m http.server 8000
 
 
 4. 在浏览器中访问 `http://localhost:8000` 即可查看。
+## 访问网址
+直接访问请访问：
 
 ## 许可协议
 
