@@ -38,7 +38,7 @@ BRI-Trade-Visualization
 | **孙炜杰** | 2024201578 | 信息学院 | **编码实现与部署维护**：负责将设计方案转化为代码，实现基于 D3 和 Leaflet 的交互逻辑，进行前端 UI 美化、代码优化以及 GitHub 自动化部署。 |
 
 ## 访问网址
-直接访问请访问：
+直接访问请访问：https://sunwj-jacky.github.io/BRI-Trade-Visualization/
 
 ## 许可协议
 
